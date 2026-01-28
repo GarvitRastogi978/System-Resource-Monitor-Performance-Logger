@@ -4,3 +4,4 @@ matplotlib
 fpdf
 streamlit>=1.30.0  # Or just 'streamlit' to get the latest
 altair>=5.0.0
+plotly
