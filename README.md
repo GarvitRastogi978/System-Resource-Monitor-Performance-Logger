@@ -1,8 +1,8 @@
 # 🖥 System Resource Monitor & Performance Logger
 
-A **professional-grade Python system monitoring tool** that tracks CPU, RAM, Disk, and Network usage in real time, logs historical performance data, generates visual dashboards, triggers alerts, and produces **enterprise-style PDF health reports**.
+A **professional-grade Python system monitoring tool** that tracks CPU, RAM, Disk, and Network usage in real time, logs historical performance data, generates visual dashboards, triggers alerts, and produces **PDF health reports**.
 
-Built to demonstrate **Operating Systems concepts, backend engineering skills, performance monitoring, logging systems, and production-level reporting** — ideal for **SDE resumes & portfolios**.
+Built to demonstrate **Operating Systems concepts, backend engineering skills, performance monitoring, logging systems, and production-level reporting**.  <!-- — ideal for **SDE resumes & portfolios**-->
 
 ---
 
