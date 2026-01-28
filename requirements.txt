@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 psutil
 pandas
 matplotlib
